@@ -1,4 +1,4 @@
-# MEM-FCS Analyzer by LIGHTPROBE Technologies v1.0
+# MEM-FCS Analyzer by LIGHTPROBE Technologies 
 
 
 **Maximum Entropy Method (MEM) analysis of Fluorescence Correlation Spectroscopy (FCS) data, with a graphical interface.**
