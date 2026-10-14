@@ -23,9 +23,6 @@ MEM-FCS Analyzer fits FCS autocorrelation curves with a maximum entropy approach
 
 ## Installation
 
-### Requirements
-
-
 ### Setup
 
 Download the latest release from the release section; it currently works on Windows.
@@ -49,6 +46,7 @@ Each file must contain at least two columns:
 - `.xlsx` / `.xls` files are read from the first sheet; rows with missing or non-numeric values are dropped.
 - The curve should extend to at least 10 ms, because the long-time plateau is used to estimate the initial amplitude of the discrete fit.
 
+Some example data is provided in the Sample Data folder in the repository, feel free to use them.
 ---
 
 ## Workflow
