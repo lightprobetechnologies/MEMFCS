@@ -25,31 +25,14 @@ MEM-FCS Analyzer fits FCS autocorrelation curves with a maximum entropy approach
 
 ### Requirements
 
-- Python 3.8 or newer
-- `tkinter` (included with most Python installations; on some Linux distributions install `python3-tk`)
-- The following Python packages:
-
-```
-numpy
-pandas
-scipy
-matplotlib
-openpyxl
-```
 
 ### Setup
 
-```bash
-git clone https://github.com/<Kaustav1612>/<MEMFCSy>.git
-cd <your-repository>
-pip install numpy pandas scipy matplotlib openpyxl
-```
+Download the latest release from the release section; it currently works on Windows.
 
 ### Run
 
-```bash
-python mem_fcs_analyzer.py
-```
+Run the executable downloaded from the release.
 
 ---
 
